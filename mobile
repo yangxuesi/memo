@@ -7,3 +7,4 @@ Java Code
 
 		Pattern r = Pattern.compile(pattern);
 		Matcher m = r.matcher(str);
+aaa
